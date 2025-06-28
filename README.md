@@ -1,6 +1,6 @@
-# introduce.github.io
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Introduce Dayeon Son 
+# Girl in high school
+## Want to be a Game Developer!
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
