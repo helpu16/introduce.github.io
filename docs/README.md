@@ -15,16 +15,7 @@
 </p>
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
-
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
+https://docs.google.com/document/d/1EWxd4j6C40nyWMgKM6Wl8Hq_VbavgylIKD-wgtro9yg/edit?usp=sharing
 
 ## Tech
 
