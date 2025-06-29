@@ -17,7 +17,11 @@
 </p>
 https://docs.google.com/document/d/1EWxd4j6C40nyWMgKM6Wl8Hq_VbavgylIKD-wgtro9yg/edit?usp=sharing
 
-## Tech
+<p>
+    Python
+</p>
+
+## Feature
 
 Dillinger uses a number of open source projects to work properly:
 
