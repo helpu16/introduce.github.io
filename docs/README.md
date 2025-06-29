@@ -8,8 +8,8 @@
 
 <p>
     <img src="https://img.shields.io/badge/C-0100?style=flat-square&logoColor=blue"/>&nbsp
-    <img src="https://img.shields.io/badge/Python-0100?style=flat-square&logoColor=Red
-"/>&nbsp
+    
+    <img src="https://img.shields.io/badge/Python-0100?style=flat-square&logoColor=Red"/>&nbsp
 
 
 </p>
