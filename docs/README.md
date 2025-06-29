@@ -8,7 +8,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/C-0100?style=flat-square&logoColor=blue"/>&nbsp
-    
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Python-0000?style=flat-square&logoColor=Red"/>&nbsp
 
 
