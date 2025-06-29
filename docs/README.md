@@ -2,9 +2,9 @@
 # Girl in high school
 ## Want to be a Game Developer!
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+<p>
+    고등학생 1학년 때부터 게임개발자의 꿈을 키워 지금까지 그 꿈을 키워오고 있습니다. 복잡한 과정을 도전하는 것을 즐기고 진심으로 코딩을 즐기고 있습니다.
+</p>
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
