@@ -9,11 +9,9 @@
 <p>
     <img src="https://img.shields.io/badge/C-0100?style=flat-square&logoColor=blue"/>&nbsp
 <img src="https://img.shields.io/badge/Python-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp
-
-
-
 </p>
-## Features
+
+## The code I made
 
 https://docs.google.com/document/d/1EWxd4j6C40nyWMgKM6Wl8Hq_VbavgylIKD-wgtro9yg/edit?usp=sharing
 
