@@ -7,7 +7,7 @@
 </p>
 
 <p>
-    https://img.shields.io/badge/:badgeContent?style=flat-square&logo=C&logoColor=blue
+    <img src="https://img.shields.io/badge/:badgeContent?style=flat-square&logo=C&logoColor=blue"/>&nbsp
 
 </p>
 ## Features
