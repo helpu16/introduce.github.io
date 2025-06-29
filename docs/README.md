@@ -26,6 +26,7 @@ https://docs.google.com/document/d/1jpGPlbXSjTPZxpfltScHFfctI8jHm-CrSe3up6ULYRw/
 https://drive.google.com/file/d/1U8AcGk14DrsDGnEeQY37NNmX0ILhVM01/view?usp=sharing
 
 ## Feature
-
-Girl in High School
-I Want to be a Game Developer!
+<p>
+    Girl in High School
+    I Want to be a Game Developer!
+</p>
