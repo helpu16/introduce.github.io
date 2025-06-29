@@ -16,6 +16,7 @@
     C++
 </p>
 https://docs.google.com/document/d/1EWxd4j6C40nyWMgKM6Wl8Hq_VbavgylIKD-wgtro9yg/edit?usp=sharing
+https://docs.google.com/document/d/1_2e3ePFDzKyrvCz0nFyOmwYYArUHmDJeMUXt3pJakEM/edit?usp=sharing
 
 <p>
     Python
