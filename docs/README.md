@@ -1,6 +1,4 @@
 # Introduce Dayeon Son 
-# Girl in high school
-## Want to be a Game Developer!
 
 <p>
     고등학생 1학년 때부터 게임개발자의 꿈을 키워 지금까지 그 꿈을 키워오고 있습니다. 복잡한 과정을 도전하는 것을 즐기고 진심으로 코딩을 좋아하고 있습니다.
@@ -29,3 +27,5 @@ https://drive.google.com/file/d/1U8AcGk14DrsDGnEeQY37NNmX0ILhVM01/view?usp=shari
 
 ## Feature
 
+Girl in High School
+I Want to be a Game Developer!
