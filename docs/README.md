@@ -22,7 +22,7 @@ https://docs.google.com/document/d/1jpGPlbXSjTPZxpfltScHFfctI8jHm-CrSe3up6ULYRw/
 
 https://drive.google.com/file/d/1U8AcGk14DrsDGnEeQY37NNmX0ILhVM01/view?usp=sharing
 
-## Feature
+## Who am I?
 <p>
     고등학교 3학년입니다.
 </p>
